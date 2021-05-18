@@ -1,0 +1,7 @@
+
+*.res
+*.~*~
+*.dproj.local
+*.*cache
+*.exe
+*.dcu
